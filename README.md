@@ -6,4 +6,4 @@ Welcome to My Digital Universe – a space where I showcase my skills, projects,
 🎯 Focused on creating impactful digital experiences
 
 🌐 Portfolio Website
-🔗 Live Here: [Sanmathi V | My Digital Universe](https://sanmathiv.github.io/MyDigitalUniverse/)
+🔗 Live Site: [Sanmathi V | My Digital Universe](https://sanmathiv.github.io/MyDigitalUniverse/)
